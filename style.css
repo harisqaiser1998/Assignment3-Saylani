@@ -1,0 +1,534 @@
+*
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.bg-blue {
+  background-color: #316dc3;
+  text-align: center;
+}
+.button
+{
+  align-items: center;
+}
+
+
+.social-icon-widget {
+    margin: 8px 0!important;
+}
+.social-icon-widget a {
+    color: #fff!important;
+    margin: 5px 10px!important;
+}
+body{
+line-height: 1.7;
+    color: #666;
+    font-size: 14px;
+    font-family: 'Open Sans',sans-serif;
+}
+.top-header-text-widget {
+    text-align: center;
+    padding-top: 12px;
+    font-size: 13px;
+   
+}
+
+.action-button-widget {
+    display: flex;
+    padding: 10px 0;
+justify-content: center;
+  }
+.action-button-widget a {
+  display: flex;
+    border: 1px solid black;
+    
+    font-size: 10px;
+    padding: 4px 7px;
+    margin: 0px 2px;
+    color: #427900;
+    border-radius: 0;
+    background-color: #f5f5f5!important;
+
+  }
+  
+     
+     .fa:hover {
+         color:white;
+         
+     }
+     
+     .fa-facebook {
+   
+       color: white;
+       
+     }
+     
+     .fa-twitter {
+       
+       color: white;
+     }
+     .fa-instagram
+     {
+     color:white;
+     }
+     .fa-youtube
+     {
+         color: white;
+     }  
+
+
+.header-socaila--icon li a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-socaila--icon li a:hover {
+  background: #316dd9 !important;
+}
+.navbar-light .navbar-nav .nav-link:focus {
+  background: #316dd9 !important;
+  color: white !important;
+}
+.border-transperant {
+  border: 1px solid transparent;
+  border-radius: 0px;
+}
+.navbar--nav .dropdown-menu a {
+  padding: 7px 25px 7px 22px;
+  color: #666;
+  font-weight: 600;
+}
+.navbar--nav > li > a {
+  color: #333333 !important;
+  font-size: 13px;
+  font-weight: 600;
+  padding: 8px 16px !important;
+  border-radius: 30px;
+  transition: color 0.3s linear, background 0.3s linear;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  background: #316dc3;
+  color: #fff !important;
+}
+.dropdown-item:hover {
+  background: #316dc3 !important;
+  color: white !important;
+  padding-left: 28px !important;
+  padding-right: 19px !important;
+}
+.dropdown-menu .dropdown-item {
+  border: 0 none;
+  font-size: 12px;
+  width: 100%;
+  background: none;
+  padding: 10px 25px 10px 22px;
+  color: #888;
+  text-decoration: none;
+  display: inline-block;
+  float: left;
+  clear: both;
+  position: relative;
+  outline: 0;
+  -o-transition: padding 0.2s linear;
+  -moz-transition: padding 0.2s linear;
+  -webkit-transition: padding 0.2s linear;
+  transition: padding 0.2s linear;
+}
+.navbar-light .navbar-toggler {
+  border: none;
+  outline: 0px;
+}
+
+
+
+.S-news
+{
+   font-size: 12px;
+   color:#3af26b;    
+}
+.P-adm
+{
+    font-size: 12px;
+    color:white;
+}
+.M-det
+{
+    font-size:12px;
+    color:blue;
+     
+}
+
+.fourthrow h1
+{
+  color:#316DC3;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  font-size: 30px;
+  padding: 50px 534px;
+  margin: 17px 23px;
+}
+.fourthrow h2
+{
+  color: green;
+  font-size: 30px;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 0px 629px;
+  margin: -103px 23px;
+}
+
+ .fourthrow img
+{
+    padding: 107px 654px;
+}
+.fourthrow h3
+{
+  color: green;
+  height:5px;
+  margin: -140px 612px;
+}
+.fourthrow h4
+{
+  color: green;
+  height:5px;
+  margin: 140px 697px;
+}
+.ninerow p
+{
+  text-align: left;
+  position: absolute;
+  color: grey;
+  border: 0px solid grey;
+  width: 66%;
+  
+  margin: -100px 212px;
+  height: 420px;
+  font-size: 14px;
+  line-height: 25px;
+}
+.title-icon
+{
+  align-items: center;
+}
+
+.my-8
+{
+ 
+ margin: -31px 40px;
+}
+.h-primary
+{
+  text-align: center;
+
+  color:#316DC3;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  font-size: 30px;
+  margin: 51px ;
+
+}
+ .service--icon {
+  height: 40px;
+  width: 40px;
+  display: block;
+  margin: auto;
+
+}
+.services--detail {
+  background-color: #2755e9;
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+}
+.h8-primarys
+{
+  text-align: center;
+
+  color:#316DC3;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  font-size: 30px;
+ 
+}
+ .box
+{
+  background-color: white;
+  border: 1px solid white; 
+  
+  height: 159px;
+   text-align: center;
+   box-shadow: 0px 5px 11px;
+   box-sizing: border-box;
+  padding: 25px;
+  margin: 0px 7px;
+}
+.box h1
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+   padding: 15px;
+color: blue;
+}
+ .box1
+{
+  background-color: white;
+  border: 1px solid white;  
+  height: 159px;
+   text-align: center;
+ box-shadow: 0px 5px 11px;
+   box-sizing: border-box;
+   padding: 25px;
+   margin: 0px 7px;
+
+  }
+.box1 h1
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+   padding: 15px;
+color: blue;
+}
+
+ .box2 
+{
+
+  background-color: white;
+  border: 1px solid white;
+    height: 159px;
+      text-align: center;
+      box-shadow: 0px 5px 11px;
+      padding: 25px;
+      margin: 0px 7px;
+
+    }
+
+.box2 h1
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 15px;
+   padding: 15px;
+color: blue;
+}
+.box3 
+{
+  background-color: white;
+  border: 1px solid white;
+   height: 159px;
+   text-align: center;
+  box-shadow: 0px 5px 11px;
+  padding: 25px;
+  margin: 0px 7px;
+
+}
+.box3 h1
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  padding: 15px;
+color: blue;
+}
+.box4
+{
+  background-color: white;
+  border: 1px solid white;  
+  height: 159px;
+   text-align: center;
+  box-shadow: 0px 5px 11px;
+  padding: 25px;
+  margin: 0px 7px;
+
+}
+.box4 h1
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  padding: 15px;
+color: blue;
+}
+.box5 
+{
+  background-color: white;
+  border: 1px solid white;
+  height: 159px;
+   text-align: center;
+  box-shadow: 0px 5px 11px;
+  padding: 25px; 
+  margin: 0px 7px;
+
+}
+.box5 h1
+{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  padding: 15px;
+color: blue;
+}    
+
+ .py-60 {
+  padding-top: 2px;
+
+}
+
+.what-we-do img {
+  
+  height: 70px;
+  display: block;
+  margin: auto;
+} 
+.mb-30 {
+  margin-bottom: 11px;
+}
+.p-30 {
+  padding: 10px;
+}
+.py-60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.line-bottom {
+  position: relative;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+  font-size: 25px;
+  color: #316dc3;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.line-bottom:after {
+  background: #427900;
+  bottom: -1px;
+  content: "";
+  height: 2px;
+  left: 0;
+  position: absolute;
+  width: 50px;
+}
+
+
+.border-1px {
+  border: 1px solid #eeeeee !important;
+}
+
+.bg-silver-light {
+  background-color: #f7f8fa !important;
+}
+.p-15 {
+  padding: 10px;
+}
+.mb-20 {
+  margin-bottom: 15px;
+}
+.py-60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+
+
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+.widget ul li {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
+.list-inline > li {
+  display: inline-block;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+.pl-10 {
+  padding-left: 10px;
+}
+.widget-title.line-bottom {
+  border-bottom: 1px solid #444 !important;
+}
+.line-bottom {
+  position: relative;
+  margin-bottom: 30px;
+  padding-bottom: 10px;
+}
+h5 {
+  font-size: 14px;
+}
+.styled-icons {
+  display: inline-flex;
+  list-style: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+
+}
+.styled-icons li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 7px;
+    width: 30px;
+    height: 30px;
+    background: #316dc3;
+    border-radius: 50%;
+}
+.styled-icons a {
+  color: white;
+}
+.footer-end {
+  padding: 6px 2px;
+
+  background-color: #316dc3;
+}
+.images1
+{
+  position:fixed;
+  bottom: 10px;
+  right: 10px;
+  color: white;
+}
+
+.images ul
+{
+  list-style: none;
+  text-decoration: none;
+}
+.images ul li
+{
+display: inline-flex;  
+}
+.h-primarys
+{
+  text-align: center;
+
+  color:#316DC3;
+  
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  font-size: 30px;
+  margin: -158px -40px;
+}
+.w-100 {
+  width: 100%!important;
+}
+.d-block {
+  display: block!important;
+}
+img {
+  max-width: 100%;
+}
+.d-block
+{
+  height: 450px;
+}
